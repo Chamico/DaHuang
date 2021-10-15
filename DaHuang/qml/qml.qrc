@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>basic_function/SerialPortSettings.qml</file>
+        <file>public_function/SerialPort.qml</file>
+        <file>public_function/PublicFunction.qml</file>
+    </qresource>
+</RCC>
